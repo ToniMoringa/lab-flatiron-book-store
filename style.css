@@ -16,3 +16,9 @@
 .list-li img{
     width:190px;
 }
+
+@media (max-width: 768px) {
+    .list ul {
+        justify-content: center;
+        gap: 20px;
+    }
